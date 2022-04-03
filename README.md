@@ -13,4 +13,5 @@ Tools / programming languages in which I am interested in learning more
 
 [![My Skills](https://skillicons.dev/icons?i=django,go,aws)](https://skillicons.dev)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
