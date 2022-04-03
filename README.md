@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @cosmi310599
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there !!
 
-<!---
-cosmi310599/cosmi310599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Cosmi, I'm 22 years old and I have graduated as Superior Technician in Computer Network Systems.
+
+Currently working on Technical support and system administration in the railway sector.
+
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,linux,vim,docker,vscode,postgres,py,powershell,wordpress,git,gitlab,stackoverflow,html)](https://skillicons.dev)
+
+
+Tools / programming languages in which I am interested in learning more
+
+
+[![My Skills](https://skillicons.dev/icons?i=django,go,aws)](https://skillicons.dev)
+
+
