@@ -5,6 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/5e7e21d4-152f-41d6-bf86-d6c288282185.svg)](https://wakatime.com/@5e7e21d4-152f-41d6-bf86-d6c288282185)
 
 </div>
+
 # Hey there !! :wave:
 
 I'm Cosmi, I'm 22 years old and I have graduated as Superior Technician in Computer Network Systems.
