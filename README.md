@@ -1,4 +1,5 @@
-# Hey there !!
+
+# Hey there !! :wave:
 
 I'm Cosmi, I'm 22 years old and I have graduated as Superior Technician in Computer Network Systems.
 
@@ -15,3 +16,6 @@ Tools / programming languages in which I am interested in learning more
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+[![Resume](https://img.shields.io/badge/Website-Porfolio-blue)](http://cnicolau.com) 
