@@ -8,6 +8,8 @@
 
 # Hey there !! :wave:
 
+![Cosmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmi310599&show_icons=true&theme=apprentice)
+
 I'm Cosmi, I'm 22 years old and I have graduated as Superior Technician in Computer Network Systems.
 
 Enthusiastic about learning Python development and GNU/Linux.
@@ -18,3 +20,6 @@ Enthusiastic about learning Python development and GNU/Linux.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka--> 
+
+
+
