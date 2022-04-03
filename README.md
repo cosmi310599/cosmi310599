@@ -1,5 +1,5 @@
 
-# Hey there !! :wave+1:
+# Hey there !! :wave:
 
 I'm Cosmi, I'm 22 years old and I have graduated as Superior Technician in Computer Network Systems.
 
