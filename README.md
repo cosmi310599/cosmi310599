@@ -21,7 +21,7 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-Other        8 hrs 51 mins   █████████████████▒░░░░░░░   69.47 %
+Other        7 hrs 2 mins    ███████████████▒░░░░░░░░░   61.07 %
 ```
 
 <!--END_SECTION:waka--> 
