@@ -21,7 +21,9 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-sshconfig   0 secs          █████████████████████████   100.00 %
+YAML        0 secs          ████████████████████▒░░░░   80.82 %
+JSON        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Terraform   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 ```
 
 <!--END_SECTION:waka--> 
