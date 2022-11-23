@@ -21,10 +21,11 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-YAML       1 hr 40 mins    ███████████████▓░░░░░░░░░   62.23 %
-AsciiDoc   32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-zsh        19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Other      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+AsciiDoc   2 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.41 %
+YAML       2 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   40.61 %
+zsh        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka--> 
