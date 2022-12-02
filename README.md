@@ -21,12 +21,12 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-AsciiDoc           1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   28.12 %
-reStructuredText   46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Python             43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-HTML               39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-Makefile           31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-asciidoctor        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+reStructuredText   46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+YAML               45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Python             43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+AsciiDoc           40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+HTML               39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Makefile           31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
 <!--END_SECTION:waka--> 
