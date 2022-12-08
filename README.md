@@ -21,12 +21,12 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-YAML               1 hr 1 min      █████████▒░░░░░░░░░░░░░░░   37.11 %
-HTML               35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Vim Script         25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Bash               12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-zsh                11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Python             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+YAML         1 hr            ██████████████░░░░░░░░░░░   55.37 %
+Vim Script   25 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+Bash         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+conf         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+zsh          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka--> 
