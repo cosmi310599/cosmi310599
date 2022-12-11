@@ -21,11 +21,12 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-Vim Script   9 mins          ████████▓░░░░░░░░░░░░░░░░   34.88 %
-Bash         7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-conf         5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.12 %
-zsh          2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Makefile     15 mins         ███████░░░░░░░░░░░░░░░░░░   27.67 %
+sshconfig    10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+Vim Script   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Bash         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+conf         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Text         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
 ```
 
 <!--END_SECTION:waka--> 
