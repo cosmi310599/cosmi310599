@@ -21,12 +21,11 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-fstab         21 mins         ███████▒░░░░░░░░░░░░░░░░░   28.78 %
-Makefile      13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-sshconfig     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Text          9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-JSON          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Bash          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+fstab         21 mins         ██████████████▒░░░░░░░░░░   56.85 %
+sshconfig     12 mins         ████████▓░░░░░░░░░░░░░░░░   34.33 %
+asciidoctor   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+conf          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka--> 
