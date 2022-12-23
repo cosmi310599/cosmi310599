@@ -21,11 +21,11 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-fstab         21 mins         ██████████████▒░░░░░░░░░░   56.85 %
-sshconfig     12 mins         ████████▓░░░░░░░░░░░░░░░░   34.33 %
-asciidoctor   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-conf          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Terraform        1 hr 8 mins     ███████████████████▒░░░░░   76.67 %
+sshconfig        12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+terraform-vars   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+asciidoctor      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka--> 
