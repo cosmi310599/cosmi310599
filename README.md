@@ -21,12 +21,11 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-Terraform        1 hr 8 mins     ███████████▒░░░░░░░░░░░░░   45.68 %
-AsciiDoc         45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-Text             13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-zsh              12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-terraform-vars   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-asciidoctor      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+AsciiDoc      45 mins         ███████████████░░░░░░░░░░   59.37 %
+Text          13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+zsh           12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+asciidoctor   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka--> 
