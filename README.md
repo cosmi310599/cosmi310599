@@ -21,11 +21,12 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-AsciiDoc      45 mins         ███████████████░░░░░░░░░░   59.37 %
-Text          13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-zsh           12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-asciidoctor   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+AsciiDoc      3 hrs 35 mins   ███████████████████▓░░░░░   79.19 %
+HCL           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+zsh           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Text          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+asciidoctor   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Terraform     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka--> 
