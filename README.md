@@ -21,10 +21,11 @@ Enthusiastic about learning Python development and GNU/Linux.
 <!--START_SECTION:waka-->
 
 ```text
-Text          28 mins         █████████████████████░░░░   83.66 %
-Vim Script    3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-asciidoctor   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Python        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Text          28 mins         ████████████▓░░░░░░░░░░░░   51.08 %
+asciidoctor   22 mins         ██████████▒░░░░░░░░░░░░░░   40.72 %
+Vim Script    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Python        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka--> 
