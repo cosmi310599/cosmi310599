@@ -30,5 +30,12 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka--> 
 
+###
+
+<img src="https://raw.githubusercontent.com/cosmi310599/cosmi310599/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 
