@@ -26,7 +26,7 @@ I'm an enthusiastic learner who's passionate about all Python and GNU/Linux stuf
 
 <div align="center">
 
-<img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=230"></img>
+<p><img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=230"></img></p>
 
 </div>
 
@@ -35,7 +35,7 @@ And these are some of the technologies and programming languages that I've been 
 
 <div align="center">
 
-<img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=250"></img>
+<p><img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=250"></img></p>
 
 </div>
 
