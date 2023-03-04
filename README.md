@@ -15,6 +15,7 @@
 
 Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
+<<<<<<< HEAD
 <div align="center">
 
 <p><img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=250"></img></p>
@@ -25,6 +26,22 @@ Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.co
 I'm an enthusiastic learner who's passionate about all Python and GNU/Linux stuff. I still consider myself a junior profile but I have many projects in mind to dive in and exploring the latest tools and technologies.
 
 <div align="center">
+=======
+<p><center><img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=280"></center></p>
+
+I'm an enthusiastic learner who's passionate about all Python and GNU/Linux stuff. I still consider myself a junior profile but I have many projects in mind to dive in and exploring the latest tools and technologies.
+
+<p><center><img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=280"></center></p>
+
+
+And these are some of the technologies and programming languages that I've been worked with and am interested in learning about:
+
+<p><center><img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=280"></center></p>
+
+### Tech-skills 🦾
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,git,bash,linux,py,docker,postgres,powershell,md,mysql,)](https://skillicons.dev)
+>>>>>>> bc49794 (Update README.md and remove workflows folder)
 
 <p><img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=230"></img></p>
 
@@ -57,5 +74,17 @@ And these are some of the technologies and programming languages that I've been 
 
 [![cosmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=csm3100599&layout=compact&bg_color=2D3748&title_color=CCDBE4&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&hide=other,text,restructuredtext)](https://github.com/anuraghazra/github-readme-stats)
 
+### Code-editors 📝
+
+[![code-editors](https://skillicons.dev/icons?i=vim,vscode,neovim)](https://skillicons.dev)
+
+### Interesting to learn 💡
+
+[![interesting](https://skillicons.dev/icons?i=golang,flask,gcp,kubernetes,tensorflow)](https://skillicons.dev)
+
+
+## Wakatime-stats info 📊
+
+[![cosmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=csm3100599&layout=compact&bg_color=2D3748&title_color=CCDBE4&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&hide=other,text,restructuredtext)](https://github.com/anuraghazra/github-readme-stats)
 
 
