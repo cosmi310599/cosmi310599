@@ -17,7 +17,7 @@ Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.co
 
 <div align="center">
 
-<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=250"></img>
+<p><img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=250"></img></p>
 
 </div>
 
