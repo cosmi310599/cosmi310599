@@ -1,36 +1,48 @@
-
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Website-Porfolio-blue)](http://cnicolau.com) 
+[![Resume](https://img.shields.io/badge/Website-Porfolio-blue)](http://cnicolau.com)
 [![wakatime](https://wakatime.com/badge/user/5e7e21d4-152f-41d6-bf86-d6c288282185.svg)](https://wakatime.com/@5e7e21d4-152f-41d6-bf86-d6c288282185)
 
 </div>
 
-# Hey there !! :wave:
+<div align="left">
+<h2> Hello there! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/></h2>
 
-![Cosmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmi310599&show_icons=true&theme=apprentice)
-
-I'm Cosmi, I'm 22 years old and I have graduated as Superior Technician in Computer Network Systems.
-
-Enthusiastic about learning Python development and GNU/Linux.
+</div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,linux,vim,docker,vscode,postgres,py,powershell,wordpress,git,gitlab,stackoverflow,html)](https://skillicons.dev)
+![Cosmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmi310599&show_icons=true&theme=monokai)
+
+Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+
+<p><center><img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=280"></center></p>
+
+I'm an enthusiastic learner who's passionate about all Python and GNU/Linux stuff. I still consider myself a junior profile but I have many projects in mind to dive in and exploring the latest tools and technologies.
+
+<p><center><img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=280"></center></p>
 
 
-<!--START_SECTION:waka-->
+And these are some of the technologies and programming languages that I've been worked with and am interested in learning about:
 
-```text
-AsciiDoc      1 hr 26 mins    ███████████▓░░░░░░░░░░░░░   46.63 %
-Python        49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-asciidoctor   47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-YAML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
+<p><center><img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=280"></center></p>
 
-<!--END_SECTION:waka--> 
+### Tech-skills 🦾
 
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,git,bash,linux,py,docker,postgres,powershell,md,mysql,)](https://skillicons.dev)
+
+
+### Code-editors 📝
+
+[![code-editors](https://skillicons.dev/icons?i=vim,vscode,neovim)](https://skillicons.dev)
+
+### Interesting to learn 💡
+
+[![interesting](https://skillicons.dev/icons?i=golang,flask,gcp,kubernetes,tensorflow)](https://skillicons.dev)
+
+
+## Wakatime-stats info 📊
+
+[![cosmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=csm3100599&layout=compact&bg_color=2D3748&title_color=CCDBE4&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&hide=other,text,restructuredtext)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
