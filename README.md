@@ -15,16 +15,29 @@
 
 Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
-<p><center><img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=280"></center></p>
+<div align="center">
+
+<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=250">
+
+</div>
+
 
 I'm an enthusiastic learner who's passionate about all Python and GNU/Linux stuff. I still consider myself a junior profile but I have many projects in mind to dive in and exploring the latest tools and technologies.
 
-<p><center><img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=280"></center></p>
+<div align="center">
+
+<img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=230">
+
+</div>
 
 
 And these are some of the technologies and programming languages that I've been worked with and am interested in learning about:
 
-<p><center><img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=280"></center></p>
+<div align="center">
+
+<img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=250">
+
+</div>
 
 ### Tech-skills 🦾
 
