@@ -8,7 +8,7 @@
 
 [![Resume](https://img.shields.io/badge/Website-Porfolio-orange)](http://cnicolau.com)
 [![wakatime](https://wakatime.com/badge/user/5e7e21d4-152f-41d6-bf86-d6c288282185.svg)](https://wakatime.com/@5e7e21d4-152f-41d6-bf86-d6c288282185)
-[![DockerHub](https://img.shields.io/badge/Docker-DockerHub-green)](http://cnicolau.com)
+[![DockerHub](https://img.shields.io/badge/Docker-DockerHub-green)](https://hub.docker.com/u/cosmi310599)
 
 </div>
 <br>
