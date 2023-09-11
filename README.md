@@ -1,9 +1,9 @@
-
 <div align="center">
-<h2> Hello there! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/></h2>
+    <h2>Hello there! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="50"/></h2>
 </div>
 
 <br>
+
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/Website-Porfolio-orange)](http://cnicolau.com)
@@ -11,31 +11,34 @@
 [![DockerHub](https://img.shields.io/badge/Docker-DockerHub-green)](https://hub.docker.com/u/cosmi310599)
 
 </div>
+
 <br>
 
 <div align="center">
-
-![Cosmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmi310599&show_icons=true&theme=monokai)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=cosmi310599&show_icons=true&theme=monokai">
 </div>
 
-Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+Hello and welcome to my GitHub profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
 
-<p><center><img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=280"></center></p>
+<div align="center">
+    <img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="400">
+</div>
 
 I'm an enthusiastic learner who's passionate about all Python and GNU/Linux stuff. I still consider myself a junior profile but I have many projects in mind to dive in and exploring the latest tools and technologies.
 
-<p><center><img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width=200"></center></p>
-
+<div align="center">
+    <img src="https://media.tenor.com/y1yKziqaf50AAAAd/nice.gif" width="300">
+</div>
 
 And these are some of the technologies and programming languages that I've been worked with and I am interested in learning about:
 
-<p><center><img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width=280"></center></p>
+<div align="center">
+    <img src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif" width="400">
+</div>
 
 ### Tech-skills 🦾
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,aws,git,gitlab,bash,linux,py,docker,postgres,powershell,md,mysql,raspberrypi)](https://skillicons.dev)
-
 
 ### Code-editors 📝
 
@@ -45,7 +48,6 @@ And these are some of the technologies and programming languages that I've been 
 
 [![interesting](https://skillicons.dev/icons?i=golang,flask,gcp,kubernetes,tensorflow)](https://skillicons.dev)
 
-
 <br>
 
 ## Wakatime-stats info 📊
@@ -54,8 +56,8 @@ And these are some of the technologies and programming languages that I've been 
 
 [![cosmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=csm3100599&layout=compact&bg_color=2D3748&title_color=CCDBE4&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&hide=other,text,restructuredtext)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <br>
+
 
 ## Personal projects 🗂️
 
@@ -66,6 +68,8 @@ And these are some of the technologies and programming languages that I've been 
 | [*cracking the code interview*](https://github.com/cosmi310599/cracking-the-code-interview-py)  | Repository where I store theoricall notes and exercises solved in several different ways separated by chapters of exercises oriented to data structure and algorithms.  |  Python Data, Data Structure and Algorithms  |
 | [*dotfiles*](https://github.com/cosmi310599/dotfiles)  | Configuration files used to customize the behavior of certain programs and the user environment in the operating system.  | Dotfiles, Linux, Vim, config files  |
 | [*cheat-sheets*](https://github.com/cosmi310599/cheat-sheets) | The aim of this repository is store my personal theory notes on various concepts as I progress and learn about different tools/technologies with diagrams made in Plantuml.  |  Asciidoc, Plantuml, Cloud stuff, Dockeer, Sysadmin, Linux|
-|  [*porfolio*](https://github.com/cosmi310599/portfolio) | Website developed with a Bootstrap template deployed in a S3 bucket in AWS  | HTML, CSS, AWS, Route 53, CloudFront |
+|  [*porfolio*](https://github.com/cosmi310599/portfolio) | Website developed with a Bootstrap template deployed in a S3 bucket in AWS (old) | HTML, CSS, AWS, Route 53, CloudFront |
 | *ADB-Toolkit*  | Fork of the main repository, bash script that provides ADB functionalities, the purpose of the fork is to simplify the main script making a more compact and simple one and dive more in bash shell scripting.  | Shell scripting, ADB  |
 | *ADB-dearpygui* |  Same goal of developing a script with some adb functionalities but making use of the Dearpygui library to make a graphic user interface. (coming soon 👀) | Shell scripting, ABD, Python, GUI's  |
+
+
