@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Hello there! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="50"/></h2>
+    <h2>Hello there! <img src='https://github.com/nixin72/nixin72/blob/master/wave.gif' alt='Hi' width="50"/></h2>
 </div>
 
 <br>
@@ -44,7 +44,7 @@ And these are some of the technologies and programming languages that I've been 
 
 [![code-editors](https://skillicons.dev/icons?i=vim,vscode,neovim)](https://skillicons.dev)
 
-### Interesting to learn 💡
+### Interested to learn 💡
 
 [![interesting](https://skillicons.dev/icons?i=golang,flask,gcp,kubernetes,tensorflow)](https://skillicons.dev)
 
